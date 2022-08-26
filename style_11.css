@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient( to left,rgb(3, 174, 253),rgb(0, 238, 255) );
+}
+
+#task-form{
+    width: 800px;
+    margin: auto;
+   
+    padding: 20px;
+}
+
+.buttn{
+    text-align: center;
+}
+
+.btn1{
+    width: 80px;
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+}
+.hr1{
+    border: 1px solid black;
+    border-radius: 2px;
+    
+}
+
+ul {
+    text-align: justify;
+    padding-left: 300px;
+    font-size: 25px;
+    text-transform: capitalize;
+}
